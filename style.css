@@ -189,6 +189,10 @@ button {
     font-family: 'Roboto Condensed';
 }
 
+a {
+    text-decoration: none;
+}
+
 /*-------------------------------------------*/
 /* ----- REUSABLE COMPONENTS ------ */
 /*-------------------------------------------*/
